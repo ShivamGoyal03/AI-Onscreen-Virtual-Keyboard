@@ -1,0 +1,10 @@
+# requirements. 
+# Use
+# pip3 install -r requirements.txt
+
+cvzone
+mediapipe
+opencv-python
+pyautogui
+pynput
+keyboard
