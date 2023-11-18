@@ -2,7 +2,7 @@
 
 This project is a virtual keyboard implemented in Python using the OpenCV, Mediapipe, and PyAutoGUI libraries. 
 
-It was created by Shivam (21CSU090) & Saransh Shukla (21CSU461) using Python and computer vision techniques.
+It was created by [Shivam (21CSU090)](https://github.com/ShivamGoyal03) and [Saransh Shukla (21CSU461)](https://github.com/saransh-2021) using Python and computer vision techniques.
 
 ## Description
 
