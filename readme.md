@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use the virtual keyboard, run the `main.ipynb` file. This will open a window showing a virtual keyboard and your hand. You can type on the virtual keyboard by moving your index finger over the keys.
+To use the virtual keyboard, run the [`main.ipynb`](https://github.com/ShivamGoyal03/AI-Onscreen-Virtual-Keyboard/blob/main/main.ipynb) file. This will open a window showing a virtual keyboard and your hand. You can type on the virtual keyboard by moving your index finger over the keys.
 
 ## License
 
